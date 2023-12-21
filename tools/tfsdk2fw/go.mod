@@ -18,7 +18,7 @@ require (
 	github.com/agext/levenshtein v1.2.3 // indirect
 	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
 	github.com/armon/go-radix v1.0.0 // indirect
-	github.com/aws/aws-sdk-go v1.51.3 // indirect
+	github.com/aws/aws-sdk-go v1.51.4 // indirect
 	github.com/aws/aws-sdk-go-v2 v1.26.0 // indirect
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.1 // indirect
 	github.com/aws/aws-sdk-go-v2/config v1.27.8 // indirect
@@ -29,7 +29,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.4 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.0 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.4 // indirect
-	github.com/aws/aws-sdk-go-v2/service/accessanalyzer v1.28.4 // indirect
+	github.com/aws/aws-sdk-go-v2/service/accessanalyzer v1.29.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/account v1.16.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/acm v1.25.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/amp v1.25.3 // indirect
@@ -56,7 +56,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.36.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.35.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/codeartifact v1.25.3 // indirect
-	github.com/aws/aws-sdk-go-v2/service/codebuild v1.31.1 // indirect
+	github.com/aws/aws-sdk-go-v2/service/codebuild v1.31.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/codecatalyst v1.12.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.22.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/codedeploy v1.25.3 // indirect
@@ -77,7 +77,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/devopsguru v1.30.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/directoryservice v1.24.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/docdbelastic v1.9.2 // indirect
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.30.5 // indirect
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.31.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.152.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ecr v1.27.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ecrpublic v1.23.3 // indirect
